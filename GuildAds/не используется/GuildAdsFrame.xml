@@ -26,8 +26,8 @@ C:\Projects\WoW\Bin\Interface\FrameXML\UI.xsd">
 				GameTooltip:Hide();
 			</OnLeave>
 		</Scripts>
-		<NormalTexture file="Interface\AddOns\GuildAds\GuildAds_Button"/>
-		<PushedTexture file="Interface\AddOns\GuildAds\GuildAds_ButtonDown"/>
+		<NormalTexture file="Interface\AddOns\GuildAds\images\GuildAds_Button"/>
+		<PushedTexture file="Interface\AddOns\GuildAds\images\GuildAds_ButtonDown"/>
 		<DisabledTexture file="Interface\Minimap\UI-Minimap-ZoomOutButton-Disabled"/>
 		<HighlightTexture alphaMode="ADD" file="Interface\Minimap\UI-Minimap-ZoomButton-Highlight"/>
 	</Button>
@@ -363,7 +363,7 @@ C:\Projects\WoW\Bin\Interface\FrameXML\UI.xsd">
 		</Anchors>
 		<Layers>
 			<Layer level="BACKGROUND">
-				<Texture file="Interface\AddOns\GuildAds\GuildAds_Window">
+				<Texture file="Interface\AddOns\GuildAds\images\GuildAds_Window">
 					<Size>
 						<AbsDimension x="512" y="512"/>
 					</Size>

@@ -1,0 +1,17 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="GuildAdsPlugin.lua"/>
+	<Script file="GuildAdsUITools.lua"/>
+	<Script file="GuildAdsPlayerMenu.lua"/>
+	<Include file="debug\GuildAdsDebug.xml"/>
+	<Include file="channelOptions\GuildAdsChannelOptions.xml"/>
+	<Include file="guild\GuildAdsGuildFrame.xml"/>
+	<Include file="trade\GuildAdsTradeFrame.xml"/>
+	<Include file="trade\GuildAdsTradeOptionsFrame.xml"/>
+	<Include file="trade\GuildAdsShiftClick.xml"/>
+	<Include file="tradeCraft\GuildAdsCraftFrame.xml"/>
+	<Include file="tradeTooltip\GuildAdsTooltip.xml"/>
+	<Include file="skill\GuildAdsSkillFrame.xml"/>
+	<Include file="inventory\GuildAdsInventoryFrame.xml"/>
+	<Include file="GEM\GuildAdsGEMEventFrame.xml"/>
+	<Include file="minimapButton\GuildAdsMinimapButton.xml"/>
+</Ui>

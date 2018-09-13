@@ -1,0 +1,7 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="DataChannelLib.lua"/>
+	<Include file="SimpleComm.xml"/>
+	<Script file="GuildAdsCodecs.lua"/>
+	<Script file="GuildAdsDTS.lua"/>
+	<Script file="GuildAdsComm.lua"/>
+</Ui>

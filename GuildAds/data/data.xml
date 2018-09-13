@@ -1,0 +1,8 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="GuildAdsItem.lua"/>
+	<Script file="GuildAdsDataType.lua"/>
+	<Script file="GuildAdsFakeDataType.lua"/>
+	<Script file="GuildAdsTableDataType.lua"/>
+	<Script file="GuildAdsDB.lua"/>
+	<Include file="datatypes\datatypes.xml"/>
+</Ui>

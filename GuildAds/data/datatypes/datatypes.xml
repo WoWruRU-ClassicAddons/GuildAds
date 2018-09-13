@@ -1,0 +1,8 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="GuildAdsMainData.lua"/>
+	<Script file="GuildAdsSkillData.lua"/>
+	<Script file="GuildAdsTradeNeedData.lua"/>
+	<Script file="GuildAdsTradeOfferData.lua"/>
+	<Script file="GuildAdsInventoryData.lua"/>
+	<Script file="GuildAdsTradeSkillData.lua"/>
+</Ui>
